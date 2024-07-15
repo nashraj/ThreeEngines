@@ -1,0 +1,14 @@
+alpaca-trade-api==1.4.3
+configparser==5.3.0
+halo==0.0.31
+numpy==1.23.1
+pandas==1.4.3
+pandas-market-calendars==1.6.4
+pymongo==4.1.1
+psutil==5.9.1
+python-dotenv==0.19.2
+pytz==2022.1
+tabulate==0.8.9
+termcolor==1.1.0
+tqdm==4.64.0
+yfinance==0.1.70

@@ -75,14 +75,14 @@ This project consists of three main components that work together to manage and 
    (trading_stream_script.py will automatically initialize in a new window, only for windows systems currently)
 
 ### Directory Structure
-ThreeEngines/
-├── AlpacaOMS.py
-├── DataProcessor.py
-├── YFinanceMongoDB.py
-├── .env
-├── LICENSE
-├── README.md
-├── requirements.txt
+- ThreeEngines/
+- ├── AlpacaOMS.py
+- ├── DataProcessor.py
+- ├── YFinanceMongoDB.py
+- ├── .env
+- ├── LICENSE
+- ├── README.md
+- ├── requirements.txt
 
 ### License
 This project is licensed under the GNU Affero General Public License v3.0 - see the LICENSE file for details.

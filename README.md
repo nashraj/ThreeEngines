@@ -96,4 +96,4 @@ Contributions are welcomed! Please read the CONTRIBUTING.md for details on the c
 - MongoDB for database management
 
 - Contact
-For any inquiries or issues, please contact your-email@example.com.
+For any inquiries or issues, please contact nash@techsixglobal.com.

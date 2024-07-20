@@ -1,7 +1,7 @@
 # Three Engines Project - Automated Trading Engine
 
 ## Overview
-This project consists of three main components that work together to manage and execute trading strategies using market data from Yahoo Finance, process the data, and place orders through the Alpaca broker interface with a CLI control over portfolio selection and MongoDB database management.
+This project consists of three modules that work together to manage and execute trading strategies using market data from Yahoo Finance, process the data, and place orders through the Alpaca broker interface with a CLI control over portfolio selection and MongoDB database management.
 
 ## Components
 ### 1. Yahoo Finance MongoDB Interface (YFinance MongoDB 204 MVP.py)

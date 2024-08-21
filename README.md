@@ -1,3 +1,4 @@
+![Intel Blowout avoided edit 2024-08-22 015154](https://github.com/user-attachments/assets/46fdd4a2-329d-4dc5-9488-c6c0b0f52f56)
 ![2024-08-21-171717_1920x1080_scrot](https://github.com/user-attachments/assets/f2e1fa8c-7e98-4080-a70e-62868392e5de)
 
 # Three Engines Project - Automated Trading Engine

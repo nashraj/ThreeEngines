@@ -20,6 +20,7 @@ This project consists of three modules that work together to manage and execute 
 ### 2. Data Processor (data processor 204 MVP.py)
 **Description:** 
   - This engine processes market data to generate trading signals using Bolingerbands and Moving averages with error checking functionality
+    
 **Features:**
   - Uses stored market data from the MongoDB database.
   - Applies proprietary trading strategy algorithms.
@@ -43,8 +44,8 @@ This project consists of three modules that work together to manage and execute 
 
 ### Prerequisites
 - Python 3.x
-- MongoDB instance
-- Alpaca account and API keys
+- MongoDB atlas cluster instance ( Free 500mb Cluster available)
+- Alpaca account and API keys (Free for API paper Trades)
 - Required Python packages (see `requirements.txt`)
 
 ### Installation

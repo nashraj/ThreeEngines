@@ -1,3 +1,5 @@
+![2024-08-21-171717_1920x1080_scrot](https://github.com/user-attachments/assets/f0efb485-2bf3-4de9-afa8-8717dd73129b)
+
 # Three Engines Project - Automated Trading Engine
 
 ## Overview

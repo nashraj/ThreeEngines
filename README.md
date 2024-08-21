@@ -32,6 +32,7 @@ This project consists of three modules that work together to manage and execute 
 ### 3. Alpaca Order Management System (Alpaca OMS MK5 059 MVP.py, trading_stream_script.py)
 **Description:** 
   - This engine manages and executes trading orders using Alpaca's trading API with basic risk management.
+
 **Features:**
   - Connects to Alpaca broker interface.
   - Places buy and sell orders based on signals received.

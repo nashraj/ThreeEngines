@@ -1,3 +1,4 @@
+![Intel Blowout avoided edit 2024-08-22 015154](https://github.com/user-attachments/assets/46fdd4a2-329d-4dc5-9488-c6c0b0f52f56)
 ![2024-08-21-171717_1920x1080_scrot](https://github.com/user-attachments/assets/f2e1fa8c-7e98-4080-a70e-62868392e5de)
 
 # Three Engines Project - Automated Trading Engine
@@ -19,6 +20,7 @@ This project consists of three modules that work together to manage and execute 
 ### 2. Data Processor (data processor 204 MVP.py)
 **Description:** 
   - This engine processes market data to generate trading signals using Bolingerbands and Moving averages with error checking functionality
+    
 **Features:**
   - Uses stored market data from the MongoDB database.
   - Applies proprietary trading strategy algorithms.
@@ -30,6 +32,7 @@ This project consists of three modules that work together to manage and execute 
 ### 3. Alpaca Order Management System (Alpaca OMS MK5 059 MVP.py, trading_stream_script.py)
 **Description:** 
   - This engine manages and executes trading orders using Alpaca's trading API with basic risk management.
+
 **Features:**
   - Connects to Alpaca broker interface.
   - Places buy and sell orders based on signals received.
@@ -42,8 +45,8 @@ This project consists of three modules that work together to manage and execute 
 
 ### Prerequisites
 - Python 3.x
-- MongoDB instance
-- Alpaca account and API keys
+- MongoDB atlas cluster instance ( Free 500mb Cluster available)
+- Alpaca account and API keys (Free for API paper Trades)
 - Required Python packages (see `requirements.txt`)
 
 ### Installation

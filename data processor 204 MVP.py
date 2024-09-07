@@ -204,7 +204,6 @@ class Scheduler:
 
             # Wait until after running update operation
             sleep_seconds = (time_at_10pm - now).total_seconds()
-            sleep_seconds = 10
             time.sleep(max(sleep_seconds, 0))
 
     def display_timer(self):
